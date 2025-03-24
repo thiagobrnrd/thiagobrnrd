@@ -1,16 +1,65 @@
-## Hi there 👋
+```md
+<h1 align="center">Hi there! 👋 I'm Thiago Bernardo</h1>
 
-<!--
-**thiagobrnrd/thiagobrnrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007AFF&center=true&vCenter=true&width=450&lines=Software+Engineering+Student;Backend+Developer;Tech+Enthusiast;Always+Learning!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Software Engineering Student** (6th semester)
+- 💻 Passionate about **backend development** and **AI**
+- 🔥 Currently working on **m-health AI projects**
+- 📍 Based in Brazil
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks:**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Databases:**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Technologies:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBernardo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoBernardo&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-bernardo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
+
