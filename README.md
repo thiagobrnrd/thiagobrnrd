@@ -4,7 +4,7 @@
 
 Olá, eu sou o Thiago! 👋
 
-Sou estudante do último semestre de **Engenharia de Software** na Universidade de Mogi das Cruzes (UMC). Tenho 25 anos e foco meu desenvolvimento na criação de soluções robustas e escaláveis. Atualmente, concentro meus estudos e projetos no ecossistema **Java com Spring Boot**, além de possuir experiência com **Python**, **C#** e desenvolvimento frontend com **React**.
+Engenheiro de Software, 25 anos e com foco em desenvolvimento na criação de soluções robustas e escaláveis. Atualmente, concentro meus estudos e projetos no ecossistema **Java com Spring Boot**, além de possuir experiência com **Python**, **C#** e desenvolvimento frontend com **React**.
 
 <p align="left">
     <a href="https://github.com/thiagobrnrd?tab=repositories&sort=stargazers">
