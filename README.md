@@ -1,8 +1,8 @@
-# 👨‍💻 Thiago Bernardo
+#  Thiago Bernardo
 
 **`Engenheiro de Software | FullStack Developer`**
 
-Olá, eu sou o Thiago! 👋
+Olá, eu sou o Thiago! 
 
 Engenheiro de Software, 25 anos e com foco em desenvolvimento na criação de soluções robustas e escaláveis. Atualmente, concentro meus estudos e projetos no ecossistema **Java com Spring Boot**, além de possuir experiência com **Python**, **C#** e desenvolvimento frontend com **React**.
 
